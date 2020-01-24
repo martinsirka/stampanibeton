@@ -1,0 +1,24 @@
+.horizontal-banner {
+  background-image: url('../img/isoplam.png');
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 100px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.viber-logo {
+  width: 62px; 
+  margin-left: 10px;
+}
+
+.whatsapp-logo {
+  width: 85px; 
+  margin-left: 10px;
+}
+
+.sticky-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
