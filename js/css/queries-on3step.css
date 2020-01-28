@@ -50,7 +50,7 @@
 }
 body.trans-header .navbar-default-white{
   color: #fff;
-  background: #272727 !important;
+  background: #313335 !important;
 }
 body.black .navbar-default-white .navbar-toggle .icon-bar, body.trans-header .navbar-default-white .navbar-toggle .icon-bar{
   background: #fff !important;
@@ -88,7 +88,7 @@ body.black .navbar-default-white .navbar-toggle .icon-bar, body.trans-header .na
     overflow-x: hidden;
   }
   body.black #main-menu.white, body.trans-header #main-menu.white{
-    background: #272727 !important;
+    background: #313335 !important;
   }
   .menu-init {
     display: none;

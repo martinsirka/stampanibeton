@@ -71,7 +71,7 @@ a {
     transition: all 0.3s ease;
 }
 a:hover, a:active {
-    color: #dd4425;
+    color: #ffcb05;
     text-decoration: none;
     outline: 0;
     -moz-transition: all 0.3s ease;
@@ -145,7 +145,7 @@ hr {
     line-height: inherit;
 }
 .color {
-    color: #dd4425;
+    color: #ffcb05;
 }
 .min-left {
     margin-left: -15px;
@@ -194,9 +194,9 @@ button:hover {
     text-align: center;
     letter-spacing: 1px;
     color: #fff;
-    background: #dd4425;
+    background: #ffcb05;
     border-radius: 2px;
-    border: 3px solid #dd4425;
+    border: 3px solid #ffcb05;
     outline: none;
     text-shadow: none;
     margin-top: 17px;
@@ -281,7 +281,7 @@ section.crumbs{
 .sub-heading-content{
     display: block;
     font-size: 17px;
-    color: #dd4425;
+    color: #ffcb05;
 }
 
 /* no select */
@@ -568,7 +568,7 @@ section.crumbs{
     width: 40px;
     height: 40px;
     border: 3px solid transparent;
-    border-top: 3px solid #dd4425;
+    border-top: 3px solid #ffcb05;
     top: -3px;
     left: -3px;
     border-radius: 999px;
@@ -645,7 +645,7 @@ section.crumbs{
     margin-right: 0;
 }
 .social-icons-subnav a:hover, .social-icons-subnav a:hover span{
-    color: #dd4425;
+    color: #ffcb05;
     border-color: #eceff3;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -777,7 +777,7 @@ header.show {
     text-transform: uppercase;
 }
 .white nav a:hover {
-    color: #dd4425 !important;
+    color: #ffcb05 !important;
 }
 .white nav a:hover::before {
     display: inline-block;
@@ -802,7 +802,7 @@ header.show {
     white-space: nowrap;
 }
 .white nav a.actived {
-    color: #dd4425 !important;
+    color: #ffcb05 !important;
 }
 .white nav ul ul {
     display: none;
@@ -964,7 +964,7 @@ ul#crumbs li:last-child:after {
     display: block;
     padding-bottom: 30px;
     margin-bottom: 30px;
-    border-bottom: .28rem solid #dd4425;
+    border-bottom: .28rem solid #ffcb05;
 }
 .headingcontent{
     font-size: 4.1rem;
@@ -1188,7 +1188,7 @@ ul#crumbs li:last-child:after {
   position: relative;
   text-align: center;
   margin-bottom: 15px;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 .gal-home.pages .hovereffect{
     max-height: 360px;
@@ -1409,7 +1409,7 @@ ul#crumbs li:last-child:after {
         display: block;
         font-size: 1.4rem;
         width: 100%;
-        color: #dd4425;
+        color: #ffcb05;
         font-weight: 600;
         background: transparent;
         border: 3px solid transparent;
@@ -1466,7 +1466,7 @@ ul#crumbs li:last-child:after {
 }
 .features:hover a {
     color: #fff;
-    background: #dd4425;
+    background: #ffcb05;
     border: 3px solid rgba(255, 255, 255, 0);
     -moz-transition: all .6s ease;
     -ms-transition: all .6s ease;
@@ -1493,7 +1493,7 @@ ul#crumbs li:last-child:after {
 }
 .features span {
     display: block;
-    color: #dd4425;
+    color: #ffcb05;
     padding: 10px 0 10px 0;
 }
 .features span.number {
@@ -1517,7 +1517,7 @@ ul#crumbs li:last-child:after {
     line-height: 40px;
     color: #fff;
     background: rgba(255, 255, 255, 0);
-    border: 3px solid #dd4425;
+    border: 3px solid #ffcb05;
     outline: none;
     text-shadow: none;
     margin: 0 auto;
@@ -1596,7 +1596,7 @@ ul#crumbs li:last-child:after {
 .box-icon .icon-choose {
     display: block;
     font-size: 48px;
-    color: #dd4425;
+    color: #ffcb05;
     width: auto;
     height: 80px;
     text-align: center;
@@ -1659,7 +1659,7 @@ ul#crumbs li:last-child:after {
     right: 10%;
     padding: 20px;
     color: rgba(255,255,255,.9);
-    background: #dd4425;
+    background: #ffcb05;
     box-shadow: 0 7px 10px 2px rgba(0, 0, 0, 0.06);
     z-index: 1;
 }
@@ -1669,7 +1669,7 @@ ul#crumbs li:last-child:after {
   color: rgba(255,255,255,.9);
 }
 .detaillist{
-    background: #dd4425;
+    background: #ffcb05;
     padding:30px 40px 30px 30px;
     }
 .detaillist span{ 
@@ -1836,7 +1836,7 @@ ul#crumbs li:last-child:after {
     font-weight: 400;
     letter-spacing: 2px;
     color: #fff;
-    background-color: rgba(221, 68, 37, .8);
+    background-color: hsla(48, 100%, 51%, 0.8);
 }
 .overlay div span {
     width: 100%;
@@ -2032,7 +2032,7 @@ ul#crumbs li:last-child:after {
     height: 5px;
     border-radius: 0px;
     margin: 10px;
-    background: #dd4425;
+    background: #ffcb05;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -2040,7 +2040,7 @@ ul#crumbs li:last-child:after {
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
     height: 80px;
-    background: #dd4425;
+    background: #ffcb05;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -2592,7 +2592,7 @@ address.cont-1 span a {
     line-height: 41px;
     color:#fff;
     border:2px solid rgba(0,0,0,0);
-    background:#dd4425;
+    background:#ffcb05;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
     border-radius: 0px;
@@ -2682,7 +2682,7 @@ ul.list-menu{
     padding-left: 0px;
 }
 ul.list-menu li a.active{
-    color: #dd4425!important;
+    color: #ffcb05!important;
 }
 .footer-widget li {
   border-bottom: none;
@@ -2836,7 +2836,7 @@ ul.list-menu li a.active{
     width: 56px;
     height: 46px;
     color: #fff;
-    background: #dd4425;
+    background: #ffcb05;
     border: 0px;
     border-top-right-radius: 23px;
     border-bottom-right-radius: 23px;
@@ -2906,7 +2906,7 @@ ul.list-menu li a.active{
     width: 35px;
     height: 35px;
     color: #fff;
-    background: #dd4425;
+    background: #ffcb05;
     line-height: 32px;
     position: fixed;
     right: 10px;
@@ -2975,7 +2975,7 @@ ul.list-menu li a.active{
         text-align: center;
         font-size: 2.1rem;
         font-weight: 500;
-        color: #272727 !important;
+        color: #313335 !important;
     }
     .modal-login  .form-group {
         position: relative;
@@ -3009,7 +3009,7 @@ ul.list-menu li a.active{
     .modal-login .btn {
         font-size: 11pt;
         letter-spacing: 1px;
-        background: #dd4425;
+        background: #ffcb05;
         border: none;
         border-radius: 0px;
         line-height: normal;
@@ -3064,7 +3064,7 @@ ul.list-menu li a.active{
   background: #f8f8f8;
   padding: 30px;
   margin: 30px 0 30px 0;
-  border-left: 5px solid #dd4425;
+  border-left: 5px solid #ffcb05;
  }
 .blog-simple .blog-text .heading { margin-top:15px;}
 .blog-simple .blog-text h3 a{ font-weight:500;}
@@ -3109,7 +3109,7 @@ ul.list-menu li a.active{
   margin-bottom: 20px;
 }
 ul.pagination li a{  font-size:9.5pt; color:#333; margin-right:5px; padding-left:30px;}
-ul.pagination li a:hover{ color:#fff; background:#dd4425; }
+ul.pagination li a:hover{ color:#fff; background:#ffcb05; }
 
 
 /* post meta */
@@ -3240,7 +3240,7 @@ aside .widget, .widget {
     line-height: 24px;
     color: #969595;
     background:#fff !important;
-    border: 1px solid #dd4425!important;
+    border: 1px solid #ffcb05!important;
     border-radius: 0;
     box-shadow: none;
     }
@@ -3287,11 +3287,11 @@ aside .widget, .widget {
 }
 .widget .tags div a:hover {
   text-decoration: none;
-  border: 1px solid #dd4425;
+  border: 1px solid #ffcb05;
 }
 .devider-widget {
   display: block;
-  border-bottom: 2px solid #dd4425;
+  border-bottom: 2px solid #ffcb05;
   margin-bottom: 30px;
   margin-top: 20px;
   width: 60px;
@@ -3326,7 +3326,7 @@ aside .widget, .widget {
     background: #333;
 }
 .input-group-btn button:hover span.icon{
-    background: #dd4425;
+    background: #ffcb05;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
     }
@@ -3505,7 +3505,7 @@ aside .widget, .widget {
     line-height: 35px;
     color: #fff;
     border: 0px solid rgba(0, 0, 0, 0);
-    background: #dd4425;
+    background: #ffcb05;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
     border-radius: 0px;
@@ -3553,17 +3553,17 @@ select.form-control, select.form-control:hover, select.form-control:focus, input
 /***** black *****/
 body.black, body.black header, body.black .white nav ul ul li, body.black .whitepage {
     color: #fff;
-    background: #272727 !important;
+    background: #313335 !important;
 }
 body.black .preloader, body.black .bg-preloader-white, body.black .bg-preloader-white-bot, body.black  .prtf-outline{
-    background: #272727;
+    background: #313335;
 }
 body.black .white nav ul ul li a:hover{
     background: #333 ;
 }
 body.black .navbar-default-white, body.black .subnav{
     color: #fff;
-    background: #272727 !important;
+    background: #313335 !important;
     border-bottom: 1px solid rgba(255, 255, 255, .1);
 }
 body.black .bottom-footer{

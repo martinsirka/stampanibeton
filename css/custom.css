@@ -1,10 +1,13 @@
 .horizontal-banner {
-  background-image: url('../img/isoplam.png');
-  background-color: #cccccc; /* Used if the image is unavailable */
-  height: 100px; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-image: url(../img/isoplam.png);
+  background-color: #cccccc;
+  height: 135px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .viber-logo {

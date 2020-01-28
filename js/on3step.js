@@ -125,7 +125,7 @@ jQuery( window ).on( "load", function() {
   if (0 == a.length || "-1" == a.indexOf("@") || "-1" == a.indexOf(".")) {
   var r = !0;
   contactemail.css({
-    "border": "2px solid #dd4425"
+    "border": "2px solid #ffcb05"
   });
   } else contactemail.css({
   "border": "2px solid #f1f1f1"
@@ -133,7 +133,7 @@ jQuery( window ).on( "load", function() {
   if (0 == e.length) {
   var r = !0;
   contactname1.css({
-    "border": "2px solid #dd4425"
+    "border": "2px solid #ffcb05"
   });
   } else contactname1.css({
   "border": "2px solid #f1f1f1"
@@ -141,7 +141,7 @@ jQuery( window ).on( "load", function() {
   if (0 == s.length) {
   var r = !0;
   contactmessage.css({
-    "border": "2px solid #dd4425"
+    "border": "2px solid #ffcb05"
   });
   } else contactmessage.css({
   "border": "2px solid #f1f1f1"
