@@ -25,3 +25,19 @@
     bottom: 0;
     width: 100%;
 }
+
+.wrapper {
+  height: 100vh;
+}
+
+.mt-150 {
+  margin-top: 150px;
+}
+
+.mt-80 {
+  margin-top: 80px;
+}
+
+.temporary {
+  margin-left: 50px;
+}
