@@ -41,3 +41,13 @@
 .temporary {
   margin-left: 50px;
 }
+
+.example img {
+  width: 70%;
+  margin: 80px auto 80px auto;
+}
+
+.icons-footer-contact {
+  margin-right: 100px;
+  margin-left: 100px;
+}
