@@ -10,6 +10,14 @@
   margin-right: auto;
 }
 
+.content-wrapper {
+  margin-top: 148px;
+}
+
+.mt-220 {
+  margin-top: 220px;
+}
+
 .viber-logo {
   width: 62px; 
   margin-left: 10px;
@@ -50,4 +58,79 @@
 .icons-footer-contact {
   margin-right: 100px;
   margin-left: 100px;
+}
+
+.partner-logo {
+  padding: 30px 0 0 100px;
+}
+
+.partner-logo img {
+  width: 240px;
+}
+
+.contact-title {
+  color: #ffcb05;
+}
+
+.banner-top {
+  margin-top: 58px;
+}
+
+.banner-top img {
+  width: 100%;
+}
+
+/* Unit Gallery */
+.ug-gallery-wrapper.ug-lightbox {
+    opacity: 1 !important;
+}
+
+.ug-lightbox .ug-lightbox-overlay {
+    background-color: rgba(30, 30, 30, 0.85) !important;
+}
+
+.side-menu a.item {
+    font-size: 18px;
+    display: block;
+    line-height: 40px;
+    border-bottom: 1px solid #eee;
+    color: #fff;
+    text-decoration: none;
+}
+
+.side-menu a.item:hover {
+    opacity: 0.7;
+}
+
+.img-fluid-100 {
+    width: 100% !important;
+    height: auto;
+}
+
+/* Media query */
+@media all and (max-width: 1200px) {
+  
+}
+
+@media all and (max-width: 813px) {
+   .hide-banner-sm {
+    display: none;
+  }
+}
+
+@media all and (max-width: 767px) {
+    
+}
+
+@media (max-width: 580px) {
+  .hide-banner-lg {
+    display: none;
+  }
+
+  .banner-top {
+    width: 90%;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
 }
